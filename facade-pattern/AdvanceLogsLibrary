@@ -1,0 +1,27 @@
+class AdvanceLogsLibrary{                       // Class: AdvanceLogsLibrary
+  constructor(){                                // constructor function
+    console.log("_constructor");
+  }
+
+  checkPermissions(){                         // function: checkPermissions
+    console.log("_checkPermissions");
+    return true;
+  }
+
+  checkExistFolder(){                         // function: checkExistFolder
+    console.log("_checkExistFolder");
+    return true;
+  }
+
+  generateLogName(){                          // function: generateLogName
+    console.log("_checkExistFolder");
+    return "Generated Log Name";
+  }
+
+  write(message){                             // function: write
+    console.log("_write", message);
+    return true;
+  }
+}
+
+module.exports = AdvanceLogsLibrary;          // export module
