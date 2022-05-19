@@ -1,6 +1,6 @@
-const AnalyticsLibrary = require('./AnalyticsLibrary');                         
+const AnalyticsLibrary = require('./AnalyticsLibrary');
 const JsonReader = require('./JsonReader');
-const JSONToXMLAdapter = require('./JSONToXMLAdapter');
+const JSONToXMLAdapter = require('../JSONToXMLAdapter');
 
 const initialDataInstance = new JsonReader();                                   // Instance of class JsonReader
 
