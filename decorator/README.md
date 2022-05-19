@@ -14,4 +14,4 @@ For this reason, the Decorator pattern is less relevant to JavaScript developers
 
 # Diagram
 
-https://www.dofactory.com/img/diagrams/javascript/javascript-decorator.jpg
+![Decorator](https://miro.medium.com/max/1158/1*dLEeP2PBPqv7hC8T3xsarQ.png)
