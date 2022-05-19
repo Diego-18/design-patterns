@@ -12,4 +12,4 @@ Several other patterns, such as, Factory, Prototype, and Façade are frequently 
 
 # Diagram
 
-https://www.dofactory.com/img/diagrams/javascript/javascript-singleton.jpg
+![Singleton](https://miro.medium.com/max/774/1*TG4UJGZuH2NfF_x-AYp-tw.png)
