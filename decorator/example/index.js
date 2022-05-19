@@ -1,10 +1,10 @@
-const Product = require("./product");                                               
+const Product = require("./product");
 const ProductInternational = require("./productInternational");
 
 let product = new Product();                                                        // Create a new class with the country
 
 function ProductCountry(country){                                                   // function ProductCountry
-  if (country == "VE"){                                                             // if country is VE       
+  if (country == "VE"){                                                             // if country is VE
     product = new ProductInternational(product);                                    // create a new class with the country (Decorator)
   }
   console.log(product.getPrice());                                                  // print the price
