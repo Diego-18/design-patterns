@@ -14,4 +14,4 @@ Façades are frequently combined with other design patterns. Façades themselves
 
 # Diagram
 
-https://www.dofactory.com/img/diagrams/javascript/javascript-facade.jpg
+![Facade](https://miro.medium.com/max/1128/1*fQTsD5ZBgV_Iv1SHM6rBMg.png)
