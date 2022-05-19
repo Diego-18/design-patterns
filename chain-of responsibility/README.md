@@ -12,4 +12,4 @@ To learn more about the Chaining patterns and its benefits see our Dofactory JS 
 
 # Diagram
 
-https://www.dofactory.com/img/diagrams/javascript/javascript-chain-of-responsibility.jpg
+![Chain-of-responsability](https://miro.medium.com/max/814/1*rQMICaHWe6NQ6ielfUmkkw.png)
