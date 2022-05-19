@@ -10,4 +10,4 @@ Another scenario is refactoring in which parts of the program are rewritten with
 
 # Diagram
 
-https://www.dofactory.com/img/diagrams/javascript/javascript-adapter.jpg
+![Adapter](https://miro.medium.com/max/1132/1*Ys8_TEhcOJS0jPWj54qYhw.png)
