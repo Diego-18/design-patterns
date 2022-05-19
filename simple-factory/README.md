@@ -14,4 +14,4 @@ This includes scenarios in which the creation process involves object caching, s
 
 # Diagram
 
-https://www.dofactory.com/img/diagrams/javascript/javascript-abstract-factory.jpg
+![Simple Factory](https://miro.medium.com/max/1400/1*Hq1dVINI67d-_IQjco5-Sw.png)
